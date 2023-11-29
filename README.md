@@ -3,3 +3,9 @@
 
 
 https://creator.nightcafe.studio/creation/peMgeyJMt20SU8MWBR2C
+
+
+# color palette from the colors of the logo 
+
+The color palette is extracted from coolors webpage: 
+https://coolors.co/fdfdfd-f54f1b-000000-b92734-fdbf1c-fe1521 
